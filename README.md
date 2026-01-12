@@ -9,7 +9,6 @@ Hey there! My name is Simon Berhe. I am a current second year student at Ontario
 * 🌍  I'm based in Toronto, Ontario
 * 🖥️  See my portfolio at [MyPortfolio](http://simonberhe-personalportfolio.netlify.app/)
 * ✉️  You can contact me at [berhesimon458@gmail.com](mailto:berhesimon458@gmail.com)
-* 🚀  I'm currently working on [Car Rental App... link will not work still in initial stages](http://s)
 * 🧠  I'm learning React and Angular
 * 🤝  I'm open to collaborating on Interesting Projects
 
