@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Simon Berhe
 ===================================================================================================================================
 
-Web Devoloper
+Software Engineer
 -------------
 
-Hey there! My name is Simon Berhe. I am a current second year student at Ontario Tech University studying a bachelors in Computer Science.
+Hey there! My name is Simon Berhe. I am a current third year student at Ontario Tech University studying a bachelors in Computer Science.
 
 * 🌍  I'm based in Toronto, Ontario
 * 🖥️  See my portfolio at [MyPortfolio](http://simonberhe-personalportfolio.netlify.app/)
