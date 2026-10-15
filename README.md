@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -------------
 
-Hey there! My name is Simon Berhe. I am a current third year student at Ontario Tech University studying a bachelors in Computer Science.
+Hey there! My name is Simon Berhe. I am a current fourth year student at Ontario Tech University studying a bachelors in Computer Science.
 
 * 🌍  I'm based in Toronto, Ontario
 * 🖥️  See my portfolio at [MyPortfolio](http://simonberhe-personalportfolio.netlify.app/)
